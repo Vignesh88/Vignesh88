@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I create blog posts and open source tools mainly on python.
+
+- My blog [vikki.in](https://www.vikki.in)
+- Tools developed [Tools](https://tools.vikki.in)
+
+> 📫 Subscribe to my bnewsletter [Subscribe](http://eepurl.com/g9ZOsT)
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=vignesh88.vignesh88" alt="visitor badge"/>
+</p>
+
+
 <!--
 **vignesh88/vignesh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
